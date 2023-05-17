@@ -80,7 +80,8 @@ body {
 }
 
 #Home h1 ul li{
-    font-size: 18px; 
+    font-size: 18px;
+    font-weight:500;
      
 }
 
